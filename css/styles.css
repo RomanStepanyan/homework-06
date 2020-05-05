@@ -255,16 +255,16 @@ nav {
 }
 
 .facebook {    
-    background-image: url("/img/facebook-icon.png");
+    background-image: url("../img/facebook-icon.png");
 }
 .twitter {
-    background-image: url("/img/twitter-icon.png");
+    background-image: url("../img/twitter-icon.png");
 }
 .pinterest {
-    background-image: url("/img/pinterest-icon.png");
+    background-image: url("../img/pinterest-icon.png");
 }
 .instagram {
-    background-image: url("/img/instagram-icon.png");
+    background-image: url("../img/instagram-icon.png");
 }
 
 .overlay__icon_link {
